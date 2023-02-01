@@ -1,0 +1,7 @@
+.nav-bar-show{
+    display: flex;
+}
+
+.nav-bar-hide{
+    visibility: hidden;
+}
